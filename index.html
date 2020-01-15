@@ -1,10 +1,15 @@
+---
+# front matter tells Jekyll to process Liquid
+layout: default
+title: Welcome!
+---
 <!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Home</title>
+    <title>{{ page.title }}</title>
   </head>
   <body>
-    <h1>Hello World! Rayón es un perro molón</h1>
+    <h1>{{ "Hello World! Rayón es un perro molón" | downcase}}</h1>
   </body>
 </html>
