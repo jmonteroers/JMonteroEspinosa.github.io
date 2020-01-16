@@ -25,11 +25,11 @@ $heading-color: $gray-6 !default;
 
 $border-color: $gray-2 !default;
 $border-radius: 300px !default;
-$padding-v: 1em !default;
-$padding-h: 1.5em !default;
+$padding-v: .1em !default;
+$padding-h: 1em !default;
 $heading-spacing: 0.5rem !default;
 $section-spacing: 2rem !default;
-$sidebar-width: 27rem !default;
+$sidebar-width: 20rem !default;
 
 $large-breakpoint: 49rem !default;
 $large-font-size: 1.05rem !default; //modified to reduce size of title in navigation bar!
