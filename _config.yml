@@ -36,3 +36,7 @@ sidebar_blog_link:  '/blog'   # By default, your home page is your blog
 
 # removing future posts
 future: false
+
+# disqus manages Comments
+disqus:
+  shortname:  'jmonteroespinosa'
