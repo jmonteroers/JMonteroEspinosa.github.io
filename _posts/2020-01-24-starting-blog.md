@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Starting the blog
-comments: true
+comments: false
 ---
 
 Welcome, bienvenidos! I'm still building the site, so please wait for updates on data analysis projects!
